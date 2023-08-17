@@ -32,10 +32,10 @@
 
 # Fun fact 🤣😂
 
-Expectation - I just love CODING... <br>
+Expectation - I just love CODING...😍 <br>
 <img align="center" width="200" src="https://media2.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200w.gif?cid=ecf05e479uieonuieykq83wfk660he4zye1sxd14sn3k1rfr&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="gif" />
 
-Reality - debuging a single error... <br>
+Reality - But sometimes...debuging a single error...😂 <br>
 <img align="center" width="200" src="https://media0.giphy.com/media/zOvBKUUEERdNm/200w.gif?cid=ecf05e47v1kraimdb4zy0ui34inhlaupqlf4yhhcpgokxoa2&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="gif" />
 
 
