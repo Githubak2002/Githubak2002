@@ -23,8 +23,8 @@
 
 
 - 🌱 I’m currently learning **Full stack web developement.**
-- 👯 I’m looking to collaborate on **frontend projects with React js**
-- 💬 Ask me about **React, Web Development , Blender 3D, Design**
+- 👯 I’m looking to collaborate on **frontend projects with React js.**
+- 💬 Ask me about **React js, Web Development, Blender 3D, Design.**
 
 
   
