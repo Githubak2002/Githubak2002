@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubak2002&" alt="githubak2002" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubak2002&show_icons=true&locale=en&layout=compact" alt="githubak2002" /></p>
+
 
 
 # Fun fact 🤣😂
