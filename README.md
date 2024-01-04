@@ -18,7 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuraglohar" target="blank"><h4>Linkedin</h4> https://www.linkedin.com/in/anuraglohar </a>
+  <h4>Linkedin</h4>
+<a href="https://www.linkedin.com/in/anuraglohar" target="blank"> https://www.linkedin.com/in/anuraglohar </a>
+  <h4>Gmail</h4>
+  <i>anuragofficial2023@gmail.com </i>
 <a href="https://instagram.com/ak_creates_here" target="blank"><h4>Insta</h4></a>
 </p>
 
