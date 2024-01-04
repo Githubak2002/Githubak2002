@@ -11,9 +11,9 @@
 <img align="right" alt="gif" width="240" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=ecf05e47v1kraimdb4zy0ui34inhlaupqlf4yhhcpgokxoa2&ep=v1_gifs_search&rid=200.gif&ct=g">
 <a/>
 
-- 👨‍💻 PROJECTS - [https://githubak2002.github.io/akportfo](https://ak-nextjs-portfolio.vercel.app/projects)
-- 📫 Reach me **https://www.linkedin.com/in/anuraglohar**
-- 📄 EXPEREIENCE - [https://githubak2002.github.io/akportfo](https://ak-nextjs-portfolio.vercel.app)
+- 👨‍💻 ALL PROJECTS - [Live here!](https://ak-nextjs-portfolio.vercel.app/projects)
+- 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/anuraglohar)**
+- 📄 EXPEREIENCE - [next_js_akportfo](https://ak-nextjs-portfolio.vercel.app)
 - 🎖️ Mostly WebD project on Github are with Live link. <br>
 
 <h3 align="left">Connect with me:</h3>
