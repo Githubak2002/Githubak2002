@@ -9,18 +9,17 @@
   <a href="https://ak-nextjs-portfolio.vercel.app"> 👨‍💻 PORTFOLIO live link → </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubak2002&label=Profile%20views&color=0e75b6&style=flat" alt="githubak2002" /> </p>
-
-
 <a href="https://githubak2002.github.io/akportfolio" > 
 <img align="right" alt="gif" width="240" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=ecf05e47v1kraimdb4zy0ui34inhlaupqlf4yhhcpgokxoa2&ep=v1_gifs_search&rid=200.gif&ct=g">
 <a/>
 -->
 
-- 👨‍💻 ALL PROJECTS - [Live here!](https://ak-nextjs-portfolio.vercel.app/projects)
-- 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/anuraglohar)**
-- 📄 EXPEREIENCE - [next_js_akportfo](https://ak-nextjs-portfolio.vercel.app)
+- 👨‍💻 ALL PROJECTS → [Live here!](https://ak-nextjs-portfolio.vercel.app/projects)
+- 📫 Reach me → **[LinkedIn](https://www.linkedin.com/in/anuraglohar)**
+- 📄 EXPEREIENCE → [next_js_portfolio](https://ak-nextjs-portfolio.vercel.app)
 - 🎖️ Mostly WebD project on Github are with Live link. <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubak2002&label=Profile%20views&color=0e75b6&style=flat" alt="githubak2002" /> </p>
 
 <!-- <h4 align="left">Connect with me - Linkedin </h4>
 <a href="https://www.linkedin.com/in/anuraglohar" target="blank"> https://www.linkedin.com/in/anuraglohar </a> -->
