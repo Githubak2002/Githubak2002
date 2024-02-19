@@ -16,7 +16,7 @@
 
 - 👨‍💻 ALL PROJECTS → [Live here!](https://ak-nextjs-portfolio.vercel.app/projects)
 - 📫 Reach me → **[LinkedIn](https://www.linkedin.com/in/anuraglohar)**
-- 📄 EXPEREIENCE → [next_js_portfolio](https://ak-nextjs-portfolio.vercel.app)
+- 📄 EXPEREIENCE → <a href="https://ak-nextjs-portfolio.vercel.app" target="blank"> next_js_portfolio </a>
 - 🎖️ Mostly WebD project on Github are with Live link. <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubak2002&label=Profile%20views&color=0e75b6&style=flat" alt="githubak2002" /> </p>
