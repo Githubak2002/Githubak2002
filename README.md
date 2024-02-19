@@ -1,5 +1,9 @@
+<h1 align="center">
+  <img src="https://github.com/Githubak2002/Githubak2002/blob/main/ak_logo.svg" alt="Marton Lederer" />
+</h1>
+
 # <h2 align="center">Hi 👋, I'm Anurag Lohar</h2>
-<h3 align="center">Frontend developer from INDIA.</h3>
+<h3 align="center">Web developer from INDIA.</h3>
 
 <p align="cneter" color="blue">
   <a href="https://ak-nextjs-portfolio.vercel.app"> 👨‍💻 PORTFOLIO live link → </a>
