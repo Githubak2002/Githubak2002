@@ -129,7 +129,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
   - Developed my first React.js project - a website UI from Figma Design.
   - Explored Full-Stack Development using the MERN stack and Next.js.
 
----
+
 
 ## 🏆 Achievements
 
@@ -145,7 +145,7 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
 
   - Delivered a full-stack solution tailored to a client from Dubai.
 
----
+
 <!--  
 ## ⚒️ Languages and Tools that I Use
 
@@ -165,8 +165,8 @@ Beyond the screen, I'm a gaming enthusiast and a friendly conversationalist. I b
   </a>
 </p>
 -->
----
 
+<!-- three dash == thick horizontal line -->
 ## 🤝 Connect with Me
 
 [<img height="35" width="35" src="https://skillicons.dev/icons?i=twitter" />](https://x.com/Anurag_2023_)
